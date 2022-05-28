@@ -1,5 +1,7 @@
 package Kethua;
-
+// Kế thừa: + Mục đích của kế thừa là tái sử dụng
+// 			+ Lớp con được sở hữu các tài sản(trường, phương thức) của lớp cha
+//			+ Lớp con được sở hữu các tài sản public hoặc protected của lớp cha
 import java.util.Scanner;
 
 public class HinhTron extends HT {

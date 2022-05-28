@@ -1,7 +1,7 @@
-// Tạo lớp mô tả sinh viên bao gồm họ tên,
-// điểm và các phương thức nhập xuất và xếp loại học lực.
+//Lập trình HĐT là 1 phương thức để thiết kế 1 chương trình bằng cách sử dụng các lớp và các đối tượng.
+//* Lớp(class) là tập hợp các đối tượng.
 
-
+// Tạo lớp mô tả sinh viên bao gồm họ tên, điểm và các phương thức nhập xuất và xếp loại học lực. 
 package Class;
 
 import java.util.Scanner;
